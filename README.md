@@ -24,6 +24,7 @@ matplotlib
 ## ⚙️ Instalación
 
 1. Clona el repositorio:
+https://github.com/iamam07/modelos-generativos.git
    ```bash
 git clone https://github.com/iamam07/modelos-generativos.git
 cd tu-repo
